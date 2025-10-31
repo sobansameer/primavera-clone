@@ -1,0 +1,5 @@
+{
+  "name": "Primavera P6 Alternative Finder",
+  "description": "An intelligent tool that analyzes descriptions of project management software to find and categorize alternatives to Primavera P6, powered by Gemini.",
+  "requestFramePermissions": []
+}
